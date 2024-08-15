@@ -1,0 +1,11 @@
+version: '3.4'
+
+services:
+  blazonastest:
+    image: lars7/blazorservertest
+    ports:
+      - "5555:8080"
+    # image: ${DOCKER_REGISTRY-}blazonastest
+    # build:
+    #   context: .
+    #   dockerfile: BlazoNasTest/Dockerfile

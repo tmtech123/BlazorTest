@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlazoNasTest", "BlazoNasTest\BlazoNasTest.csproj", "{2B96994D-27BF-4AF8-BFE5-7F37D54DB488}"
+EndProject
+Project("{E53339B2-1760-4266-BCC7-CA923CBCF16C}") = "docker-compose", "docker-compose.dcproj", "{073D0E56-9E49-4E8A-A17C-3A7A1903C4D9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2B96994D-27BF-4AF8-BFE5-7F37D54DB488}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B96994D-27BF-4AF8-BFE5-7F37D54DB488}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B96994D-27BF-4AF8-BFE5-7F37D54DB488}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B96994D-27BF-4AF8-BFE5-7F37D54DB488}.Release|Any CPU.Build.0 = Release|Any CPU
+		{073D0E56-9E49-4E8A-A17C-3A7A1903C4D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{073D0E56-9E49-4E8A-A17C-3A7A1903C4D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{073D0E56-9E49-4E8A-A17C-3A7A1903C4D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{073D0E56-9E49-4E8A-A17C-3A7A1903C4D9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F9AA753C-6F57-47A2-AFF7-D724D1B4BB39}
+	EndGlobalSection
+EndGlobal
